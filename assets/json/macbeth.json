@@ -1,0 +1,33 @@
+[
+	[
+		{
+			"speaker" : "firstWitch",
+			"dialog" : "DOH!",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "secondWitch",
+			"dialog" : "BART!!! GET OVER HERE!!!",
+			"newSpeaker" : "true"
+
+		},
+		{
+			"speaker" : "thirdWitch",
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
+			"newSpeaker" : "true"
+
+		},
+		{	
+			"speaker" : "firstWitch",
+			"dialog" : "Moreover he suffered much by sea while trying to save his own life and bring his men safely home.",
+			"newSpeaker" : "true"
+
+		},
+		{	
+			"speaker" : "secondWitch",
+			"dialog" : "But do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion.",
+			"newSpeaker" : "true"
+
+		}
+	]
+]

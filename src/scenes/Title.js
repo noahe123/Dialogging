@@ -9,6 +9,7 @@ class Title extends Phaser.Scene {
 
         // load JSON (dialog)
         this.load.json('dialog', 'json/dialog.json');
+        this.load.json('macbeth', 'json/macbeth.json');
 
         // load images
         this.load.image('dialogbox', 'img/dialogbox.png');
@@ -16,6 +17,9 @@ class Title extends Phaser.Scene {
         this.load.image('minerva', 'img/minerva.png');
         this.load.image('jove', 'img/jove.png');
         this.load.image('neptune', 'img/neptune.png');
+        this.load.image('firstWitch', 'img/firstWitch.png');
+        this.load.image('secondWitch', 'img/secondWitch.png');
+        this.load.image('thirdWitch', 'img/thirdWitch.png');
 
         // load bitmap font
         this.load.bitmapFont('gem_font', 'font/gem.png', 'font/gem.xml');
